@@ -1,4 +1,4 @@
-[![Language](https://img.shields.io/badge/Language-Rust-orange.svg)](https://www.rust-lang.org/)
+[![Language](https://flat.badgen.net/badge/Language/Rust/orange)](https://www.rust-lang.org/)
 # Solana-Bootcamp-Final-Project
 
 ## NFT Certificate Solana Smart Contract
